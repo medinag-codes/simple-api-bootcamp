@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+    background-image: url(https://www.equip.org/wp-content/uploads/2023/06/CBAB-WEB-Video-Graphic-Is-the-Pre-Tribulational-Rapture-Theory-Biblical-1080-%C3%97-640-px.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    gap: 20px;
+}
+
+h1{
+    font-size: 5rem;
+    padding: 10px;
+    color: Black;
+    text-shadow: 5px 5px 5px goldenrod;
+    text-align: center;
+}
+
+div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-size: 1rem;
+    padding: 5px;
+    color: black;
+    text-shadow: 5px 5px 5px white;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: goldenrod;
+    color: white;
+    margin: 5px;
+}
+.verseButton{
+    width: 200px;
+    font-size: 1.2rem;
+}
+
+input{
+    width: 25%;
+    height: 50px;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 1.8rem;
+    padding: 5px;
+    color: black;
+    text-shadow: 5px 5px 5px white;
+    text-align: center;
+}
