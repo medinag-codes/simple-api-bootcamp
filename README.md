@@ -14,4 +14,4 @@ This is a website I made using the labs.bibe API
 
 ## Lessons Learned:
 
-I learned how to fetch data using APIs. I still need to work on the back end to be able to collect prayer requests
+I learned how to fetch data using APIs. I still need to work on the back end to be able to collect prayer requests 
