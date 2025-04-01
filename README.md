@@ -3,7 +3,7 @@ This is a website I made using the Labs Bible API to return random bible verses 
 
 **Link to project:** []
 
-![Simple API](/images/Simple%20Weather%20API%20-%20Result.png)
+![Simple API](/images/Simple%20API.png)
 
 ## How It's Made:
 
